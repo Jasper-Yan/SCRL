@@ -23,10 +23,8 @@
 
 </div>
 
-------------
-
-
 ## 🚀 News
+* **[2026/04]** SCRL is accepted by ACL 2026 Main Conference!
 * **[2026/04]** The code of SCRL was released!
 * **[2026/03]** Code is under preparation. Stay tuned!
 * **[2026/03]** SCRL paper was released on [arXiv](https://arxiv.org/abs/2603.19880)!
